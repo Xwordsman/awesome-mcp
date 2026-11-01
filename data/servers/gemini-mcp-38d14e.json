@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "gemini-mcp-38d14e",
+  "title": "Gemini Mcp 38d14e",
+  "description": "Google Gemini MCP - Use Google's visual, video and chat capabilities in your AI Assistant. 14 tools, with setup config for Claude, Cursor and VS Code.",
+  "repoUrl": "https://github.com/houtini-ai/gemini-mcp",
+  "category": "developer-tools",
+  "tags": [
+    "developer tools",
+    "sse"
+  ]
+}

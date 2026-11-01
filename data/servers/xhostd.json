@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "xhostd",
+  "title": "Xhostd",
+  "description": "Agent-first hosting. From Claude, Cursor, or Codex, your agent can create an app, push code, and deploy it to a live HTTPS URL, with managed… Setup config for Claude, Cursor and VS Code.",
+  "repoUrl": "https://github.com/xhostd/xhostd-sdk",
+  "category": "developer-tools",
+  "tags": [
+    "developer tools",
+    "sse"
+  ]
+}

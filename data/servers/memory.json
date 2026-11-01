@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "memory",
+  "title": "Knowledge Graph Memory",
+  "description": "Store and retrieve entities, relations and observations in a persistent local knowledge graph.",
+  "repoUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+  "category": "ai-agents-models",
+  "tags": [
+    "reference",
+    "memory",
+    "knowledge-graph"
+  ],
+  "npmPackage": "@modelcontextprotocol/server-memory"
+}

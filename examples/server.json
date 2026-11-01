@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "your-server",
+  "title": "Your MCP Server",
+  "description": "Replace this example with a factual description of your server.",
+  "repoUrl": "https://github.com/your-org/your-server",
+  "category": "developer-tools",
+  "tags": ["developer-tools"]
+}

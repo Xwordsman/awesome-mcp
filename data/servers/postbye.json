@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "postbye",
+  "title": "Postbye",
+  "description": "Postbye MCP server: cancellation letters, mailing addresses and how-to-cancel guides for 8,600+ companies. Setup config for Claude, Cursor and VS Code.",
+  "repoUrl": "https://github.com/postbye-team/postbye-mcp",
+  "category": "developer-tools",
+  "tags": [
+    "developer tools",
+    "sse"
+  ]
+}

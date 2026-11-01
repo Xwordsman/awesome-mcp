@@ -1,0 +1,41 @@
+name: Validate public catalog
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout trusted validator
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha || github.sha }}
+          path: trusted
+          persist-credentials: false
+      - name: Checkout proposal data
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          path: proposal
+          persist-credentials: false
+          sparse-checkout: |
+            data/servers
+            README.md
+      - name: Use Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Validate proposed metadata using trusted tools
+        run: node trusted/scripts/validate-contributions.mjs proposal/data/servers
+      - name: Check deterministic README
+        run: |
+          node trusted/scripts/export-catalog.mjs --contributions proposal/data/servers "$RUNNER_TEMP/catalog-README.md"
+          cmp --silent "$RUNNER_TEMP/catalog-README.md" proposal/README.md

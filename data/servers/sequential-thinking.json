@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "sequential-thinking",
+  "title": "Sequential Thinking",
+  "description": "Organize problem solving into revisable, branching thought steps through an MCP tool.",
+  "repoUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+  "category": "ai-agents-models",
+  "tags": [
+    "reference",
+    "reasoning",
+    "planning"
+  ],
+  "npmPackage": "@modelcontextprotocol/server-sequential-thinking"
+}

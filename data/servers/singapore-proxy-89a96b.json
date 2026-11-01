@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "singapore-proxy-89a96b",
+  "title": "Singapore Proxy 89a96b",
+  "description": "A hosted MCP server that lets your AI agent browse the web as if it were on a Singapore mobile network. Setup config for Claude, Cursor and VS Code.",
+  "repoUrl": "https://github.com/Xavierfok/singapore-proxy-mcp",
+  "category": "developer-tools",
+  "tags": [
+    "developer tools",
+    "sse"
+  ]
+}

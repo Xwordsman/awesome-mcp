@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "legivel",
+  "title": "Legivel",
+  "description": "Markdown or saved templates in, typeset PDF out: tables, math, diagrams. 100 free documents a month. Setup config for Claude, Cursor and VS Code.",
+  "repoUrl": "https://github.com/mcp-community/legivel",
+  "category": "developer-tools",
+  "tags": [
+    "developer tools",
+    "sse"
+  ]
+}
