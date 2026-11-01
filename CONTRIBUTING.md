@@ -61,8 +61,13 @@ check intentionally fails until that review step is performed.
 
 ## Website synchronization
 
-A merged proposal does not directly overwrite the deployed website or grant
-review badges. Production synchronization/import is a separate maintainer task.
-Existing reviewed records and private submissions must be preserved. If the
+A merged proposal does not grant review badges or immediately overwrite the
+website. An operator-enabled bounded importer checks the fixed repository's main
+commit, file hashes, strict metadata and canonical identities before publication.
+New records contain no install commands, compatibility claims or measured metrics.
+Existing unmarked/reviewed records, local metadata edits and locally deleted slugs
+are preserved; conflicts require maintainer review. Upstream deletion never
+automatically deletes a website record. A disabled importer or quota cooldown can
+delay inclusion. If the
 website's optional preview worker is not configured, web submissions remain in
 the authenticated review queue and no PR is claimed to have been created.
