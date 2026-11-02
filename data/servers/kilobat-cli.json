@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "kilobat-cli",
+  "title": "Kilobat CLI",
+  "description": "A macOS command-line network diagnostics project with a local stdio MCP server. The CLI code is GPL-3.0-only; the separate Kilobat desktop app is proprietary. Some information and capabilities depend on the desktop app, its license, or system permissions.",
+  "repoUrl": "https://github.com/seifip/kilobat-cli",
+  "category": "developer-tools",
+  "tags": ["macos", "networking", "diagnostics"]
+}
