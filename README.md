@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -12,6 +12,7 @@ Repository availability and upstream behavior may change. Review upstream docume
 ## Developer Tools
 
 - [Gemini Mcp 38d14e](https://awesome-mcp.com/en/servers/gemini-mcp-38d14e) - Google Gemini MCP - Use Google's visual, video and chat capabilities in your AI Assistant\. 14 tools, with setup config for Claude, Cursor and VS Code\. [Source](https://github.com/houtini-ai/gemini-mcp).
+- [Kilobat CLI](https://awesome-mcp.com/en/servers/kilobat-cli) - A macOS command-line network diagnostics project with a local stdio MCP server\. The CLI code is GPL-3\.0-only; the separate Kilobat desktop app is proprietary\. Some information and capabilities depend on the desktop app, its license, or system permissions\. [Source](https://github.com/seifip/kilobat-cli).
 - [Legivel](https://awesome-mcp.com/en/servers/legivel) - Markdown or saved templates in, typeset PDF out: tables, math, diagrams\. 100 free documents a month\. Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/mcp-community/legivel).
 - [Postbye](https://awesome-mcp.com/en/servers/postbye) - Postbye MCP server: cancellation letters, mailing addresses and how-to-cancel guides for 8,600\+ companies\. Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/postbye-team/postbye-mcp).
 - [Singapore Proxy 89a96b](https://awesome-mcp.com/en/servers/singapore-proxy-89a96b) - A hosted MCP server that lets your AI agent browse the web as if it were on a Singapore mobile network\. Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/Xavierfok/singapore-proxy-mcp).
