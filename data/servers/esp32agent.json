@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "slug": "esp32agent",
+  "title": "Handsy (esp32agent)",
+  "description": "Lets AI agents see and operate a real iPhone. A Seeed XIAO ESP32-S3 board plugs into the iPhone's USB port and acts as its USB mouse and keyboard, the iPhone mirrors its screen to the board over AirPlay, and the computer talks to the board over Bluetooth. No jailbreak. The esp32agent CLI includes a local stdio MCP server. Docs: https://handsy.tech/docs/cli",
+  "repoUrl": "https://github.com/onehumanbeing/esp32-iphone-agent/tree/release-1.0/cli",
+  "category": "ai-agents-models",
+  "tags": [
+    "iphone",
+    "ios",
+    "esp32",
+    "phone-automation",
+    "computer-use",
+    "hardware"
+  ],
+  "npmPackage": "esp32agent"
+}
