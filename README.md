@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -19,6 +19,7 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 ## AI, Agents & Models
 
+- [Handsy \(esp32agent\)](https://awesome-mcp.com/en/servers/esp32agent) - Lets AI agents see and operate a real iPhone\. A Seeed XIAO ESP32-S3 board plugs into the iPhone's USB port and acts as its USB mouse and keyboard, the iPhone mirrors its screen to the board over AirPlay, and the computer talks to the board over Bluetooth\. No jailbreak\. The esp32agent CLI includes a local stdio MCP server\. Docs: https://handsy\.tech/docs/cli [Source](https://github.com/onehumanbeing/esp32-iphone-agent/tree/release-1.0/cli).
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
 
