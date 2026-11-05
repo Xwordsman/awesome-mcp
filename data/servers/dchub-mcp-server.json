@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "slug": "dchub-mcp-server",
+  "title": "DC Hub",
+  "description": "DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Free to start at https://dchub.cloud/mcp.",
+  "repoUrl": "https://github.com/azmartone67/dchub-mcp-server",
+  "category": "cloud-devops",
+  "tags": [
+    "data-center",
+    "energy",
+    "power-grid",
+    "remote",
+    "site-selection"
+  ],
+  "npmPackage": "dchub-mcp-server"
+}
