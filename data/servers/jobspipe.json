@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "jobspipe",
+  "title": "JobsPipe",
+  "description": "Hosted MCP server for live job search across 30+ ATS feeds and job boards (Greenhouse, Lever, Ashby, Workday, LinkedIn, Indeed and more). Also covers hiring-company profiles, tech stacks from postings, US WARN layoff notices, and saved-search alerts. Connect with OAuth or a jp_live_ API key.",
+  "repoUrl": "https://github.com/jobspipe/mcp",
+  "category": "search-web",
+  "tags": ["jobs", "hiring", "ats", "search", "remote"]
+}
