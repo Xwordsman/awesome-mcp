@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Search & Web
+
+- [Datacircle](https://awesome-mcp.com/en/servers/datacircle) - Find the best GTM APIs\. Our MCP server is open to anyone, with no key: add api\.datacircle\.dev/mcp to Claude, ChatGPT or Cursor\. It answers from the sheet\. list\_apis lists the GTM APIs on it, and search\_plans finds their plans by API, provider or price\. [Source](https://github.com/waynehamadi/datacircle).
 
 ## Contributing
 
