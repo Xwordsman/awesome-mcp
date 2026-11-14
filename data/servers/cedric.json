@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "cedric",
+  "title": "Cedric",
+  "description": "Remote MCP server (Streamable HTTP, OAuth sign-in) that gives an assistant the tools a team has connected in Cedric, plus ask_cedric to hand him a whole task. Cedric is an AI teammate who works alongside a team in chat and in their meetings.",
+  "repoUrl": "https://github.com/meet-cedric/cedric-mcp",
+  "category": "productivity-work",
+  "tags": [
+    "productivity",
+    "remote",
+    "oauth",
+    "streamable-http"
+  ]
+}
