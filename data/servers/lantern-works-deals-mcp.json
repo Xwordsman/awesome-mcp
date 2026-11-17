@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "slug": "lantern-works-deals-mcp",
+  "title": "Lantern Works GPU Prices",
+  "description": "Free, read-only MCP server for GPU cloud rental prices, price changes and deals: compares H100, H200, A100, L40S, RTX 4090/5090 and more across tracked providers, cheapest first, with each price's vendor source and check time, price history and GPU job cost estimates. No API key. Hosted Streamable HTTP endpoint (no auth): https://lantern-works-mcp.lantern-works.workers.dev/mcp. Website: https://thelanternworks.com/?ref=awesome-mcp-com",
+  "repoUrl": "https://github.com/connormatthewdouglas/agent-work-stack-deals",
+  "category": "cloud-devops",
+  "tags": ["gpu", "cloud-pricing", "price-comparison", "read-only", "no-api-key"],
+  "pypiPackage": "lantern-works-deals-mcp"
+}
