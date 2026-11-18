@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "slug": "corpusiq",
+  "title": "CorpusIQ",
+  "description": "One governed remote MCP endpoint for 40+ business systems. Read-only, user-scoped connectors return source-cited answers from accounting, payments, CRM, analytics and ecommerce platforms so the same business question resolves to the same number across ChatGPT, Claude and Perplexity.",
+  "repoUrl": "https://github.com/CorpusIQ/mcp-manifest",
+  "category": "finance-crypto",
+  "tags": [
+    "business-data",
+    "accounting",
+    "business-intelligence",
+    "read-only",
+    "remote-mcp",
+    "multi-source"
+  ]
+}
