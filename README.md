@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Media & Design
+
+- [TalkPix MCP](https://awesome-mcp.com/en/servers/talkpix) - Turns a portrait and script into a lip-synced video with a built-in voice and creates presenter-led ads from product photos\. The hosted Streamable HTTP server uses OAuth 2\.1 and gives a prepaid credit quote before rendering\. [Source](https://github.com/TalkPix-AI/talkpix-mcp).
 
 ## Contributing
 

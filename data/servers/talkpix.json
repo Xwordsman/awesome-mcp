@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "talkpix",
+  "title": "TalkPix MCP",
+  "description": "Turns a portrait and script into a lip-synced video with a built-in voice and creates presenter-led ads from product photos. The hosted Streamable HTTP server uses OAuth 2.1 and gives a prepaid credit quote before rendering.",
+  "repoUrl": "https://github.com/TalkPix-AI/talkpix-mcp",
+  "category": "media-design",
+  "tags": ["video", "talking-photo", "lip-sync", "product-ads"]
+}
