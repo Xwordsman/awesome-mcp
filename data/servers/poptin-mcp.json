@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "slug": "poptin-mcp",
+  "title": "Poptin MCP",
+  "description": "Hosted OAuth connection for Poptin email marketing, audience segmentation, and popup and form analytics. The repository contains public documentation and configuration; Poptin hosts the server.",
+  "repoUrl": "https://github.com/Poptin-LTD/Poptin-MCP",
+  "category": "communication-social",
+  "tags": [
+    "email-marketing",
+    "marketing-automation",
+    "lead-capture",
+    "oauth",
+    "remote-mcp"
+  ]
+}
