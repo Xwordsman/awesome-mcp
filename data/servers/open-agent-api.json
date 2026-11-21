@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "open-agent-api",
+  "title": "Open Agent API",
+  "description": "Local stdio bridge for a self-hosted Open Agent API gateway. It connects a caller to published coding agents and their run status and results.",
+  "repoUrl": "https://github.com/jiangxingfan1-coder/Open-Agent-API",
+  "category": "ai-agents-models",
+  "tags": ["local-stdio", "self-hosted", "agent-orchestration"]
+}

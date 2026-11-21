@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -20,6 +20,7 @@ Repository availability and upstream behavior may change. Review upstream docume
 ## AI, Agents & Models
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
+- [Open Agent API](https://awesome-mcp.com/en/servers/open-agent-api) - Local stdio bridge for a self-hosted Open Agent API gateway\. It connects a caller to published coding agents and their run status and results\. [Source](https://github.com/jiangxingfan1-coder/Open-Agent-API).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
 
 ## Contributing
