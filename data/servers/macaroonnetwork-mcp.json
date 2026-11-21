@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "slug": "macaroonnetwork-mcp",
+  "title": "Macaroon Network MCP",
+  "description": "Discover public Macaroon Network data services and inspect their x402 quotes. The hosted service exposes public service discovery and Base USDC payment requirements.",
+  "repoUrl": "https://github.com/kevmoz/macaroonnetwork-mcp",
+  "pypiPackage": "macaroonnetwork-mcp",
+  "category": "finance-crypto",
+  "tags": [
+    "mcp",
+    "x402",
+    "base",
+    "public-data"
+  ]
+}

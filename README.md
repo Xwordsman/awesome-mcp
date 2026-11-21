@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Finance & Crypto
+
+- [Macaroon Network MCP](https://awesome-mcp.com/en/servers/macaroonnetwork-mcp) - Discover public Macaroon Network data services and inspect their x402 quotes\. The hosted service exposes public service discovery and Base USDC payment requirements\. [Source](https://github.com/kevmoz/macaroonnetwork-mcp).
 
 ## Contributing
 
