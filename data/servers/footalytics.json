@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "footalytics",
+  "title": "Footalytics",
+  "description": "Football match predictions MCP server: win/draw/loss probabilities, over/under 2.5 goals, BTTS, fixtures, team ratings and a publicly graded accuracy ledger for the top leagues.",
+  "repoUrl": "https://github.com/lewis-v/footalytics-skill",
+  "category": "ai-agents-models",
+  "tags": [
+    "football",
+    "soccer",
+    "predictions",
+    "sports"
+  ]
+}
