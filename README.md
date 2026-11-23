@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Communication & Social
+
+- [lemlist](https://awesome-mcp.com/en/servers/lemlist) - Hosted lemlist MCP server at https://app\.lemlist\.com/mcp \(streamable HTTP, OAuth 2\.1 or API key\): list lemlist campaigns and their stats, create campaigns with email and LinkedIn sequences, add and search leads, search the lemlist B2B people database, and check the deliverability of sending domains\. Published in the official MCP Registry as io\.github\.l3mpire/lemlist\. [Source](https://github.com/l3mpire/lemlist-plugin).
 
 ## Contributing
 
