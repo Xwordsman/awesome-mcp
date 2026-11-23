@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "lemlist",
+  "title": "lemlist",
+  "description": "Hosted lemlist MCP server at https://app.lemlist.com/mcp (streamable HTTP, OAuth 2.1 or API key): list lemlist campaigns and their stats, create campaigns with email and LinkedIn sequences, add and search leads, search the lemlist B2B people database, and check the deliverability of sending domains. Published in the official MCP Registry as io.github.l3mpire/lemlist.",
+  "repoUrl": "https://github.com/l3mpire/lemlist-plugin",
+  "category": "communication-social",
+  "tags": ["sales", "outreach", "email", "linkedin", "lead-generation", "remote"]
+}
