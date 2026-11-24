@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Media & Design
+
+- [Tesseract](https://awesome-mcp.com/en/servers/tesseract) - Connects an AI app to Tesseract's hosted MCP server \(https://app\.tesseract\.dev/api/core/tesseract/mcp, Streamable HTTP, OAuth sign-in with a Tesseract account\) to make pictures, picture edits, effects and short videos, charged to the person's own Tesseract plan\. The repository is the public plugin and connection manifest \(with two skills for Claude Code\); the hosted server is closed source, run by Eightcell Labs, Inc\. A second hosted server, Tesseract Decks &amp; Designs \(https://app\.tesseract\.dev/api/core/tesseract/mcp/design\), lays out slide decks, diagrams, charts and designs without any AI model\. Docs: https://tesseract\.dev/mcp/ [Source](https://github.com/opentech-dev/tesseract-claude-plugin).
 
 ## Contributing
 
