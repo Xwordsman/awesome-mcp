@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "slug": "tesseract",
+  "title": "Tesseract",
+  "description": "Connects an AI app to Tesseract's hosted MCP server (https://app.tesseract.dev/api/core/tesseract/mcp, Streamable HTTP, OAuth sign-in with a Tesseract account) to make pictures, picture edits, effects and short videos, charged to the person's own Tesseract plan. The repository is the public plugin and connection manifest (with two skills for Claude Code); the hosted server is closed source, run by Eightcell Labs, Inc. A second hosted server, Tesseract Decks & Designs (https://app.tesseract.dev/api/core/tesseract/mcp/design), lays out slide decks, diagrams, charts and designs without any AI model. Docs: https://tesseract.dev/mcp/",
+  "repoUrl": "https://github.com/opentech-dev/tesseract-claude-plugin",
+  "category": "media-design",
+  "tags": [
+    "image-generation",
+    "video-generation",
+    "effects",
+    "remote",
+    "oauth",
+    "claude-code-plugin"
+  ]
+}
