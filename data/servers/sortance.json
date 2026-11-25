@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "sortance",
+  "title": "Sortance",
+  "description": "Hosted remote MCP server for signup email validation. It checks whether an address is real, disposable, role-based or risky and returns allow, review or block. Endpoint https://api.sortance.com/mcp (Streamable HTTP, OAuth 2.1 or API key). Docs: https://sortance.com/docs/mcp",
+  "repoUrl": "https://github.com/wilsonbright/sortance-mcp",
+  "category": "auth-security",
+  "tags": ["email-validation", "fraud-prevention", "signup", "remote-mcp"]
+}
