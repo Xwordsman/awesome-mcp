@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "slug": "taplio",
+  "title": "Taplio for LinkedIn",
+  "description": "Hosted remote MCP server for Taplio, a LinkedIn growth tool by lempire (https://taplio.com). Endpoint: https://mcp.taplio.com/ (Streamable HTTP, OAuth 2.1 with PKCE and dynamic client registration, single scope taplio:mcp). It lets an AI assistant draft, schedule, publish and analyze LinkedIn posts, search inspiration, find posts and comments worth engaging with, draft comments and replies, like posts and send connection requests, on the signed-in user's own account. Requires a Taplio account with LinkedIn connected (7-day free trial). The repository holds the documentation (MIT); the server itself is hosted.",
+  "repoUrl": "https://github.com/TaplioOfficial/taplio-linkedin-mcp",
+  "category": "communication-social",
+  "tags": [
+    "linkedin",
+    "social-media",
+    "content-creation",
+    "remote",
+    "oauth"
+  ]
+}
