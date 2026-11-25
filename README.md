@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -16,6 +16,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 - [Postbye](https://awesome-mcp.com/en/servers/postbye) - Postbye MCP server: cancellation letters, mailing addresses and how-to-cancel guides for 8,600\+ companies\. Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/postbye-team/postbye-mcp).
 - [Singapore Proxy 89a96b](https://awesome-mcp.com/en/servers/singapore-proxy-89a96b) - A hosted MCP server that lets your AI agent browse the web as if it were on a Singapore mobile network\. Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/Xavierfok/singapore-proxy-mcp).
 - [Xhostd](https://awesome-mcp.com/en/servers/xhostd) - Agent-first hosting\. From Claude, Cursor, or Codex, your agent can create an app, push code, and deploy it to a live HTTPS URL, with managed… Setup config for Claude, Cursor and VS Code\. [Source](https://github.com/xhostd/xhostd-sdk).
+
+## Databases & Storage
+
+- [Clema](https://awesome-mcp.com/en/servers/clema) - Remote MCP server for Clema, an AI analyst for institutional research \(IR\) and institutional effectiveness teams in U\.S\. higher education\. Work the IR data request queue and query the public IPEDS and College Scorecard datasets with read-only SQL\. Hosted server at https://mcp\.clema\.ai/mcp over Streamable HTTP with OAuth 2\.1 browser sign-in\. Requires a paid Clema plan; a free trial is available\. Docs: https://clema\.ai/docs/mcp [Source](https://github.com/wilsonbright/clema-mcp).
 
 ## AI, Agents & Models
 
