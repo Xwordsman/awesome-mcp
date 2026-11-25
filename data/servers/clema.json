@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "clema",
+  "title": "Clema",
+  "description": "Remote MCP server for Clema, an AI analyst for institutional research (IR) and institutional effectiveness teams in U.S. higher education. Work the IR data request queue and query the public IPEDS and College Scorecard datasets with read-only SQL. Hosted server at https://mcp.clema.ai/mcp over Streamable HTTP with OAuth 2.1 browser sign-in. Requires a paid Clema plan; a free trial is available. Docs: https://clema.ai/docs/mcp",
+  "repoUrl": "https://github.com/wilsonbright/clema-mcp",
+  "category": "databases-storage",
+  "tags": [
+    "education",
+    "higher-education",
+    "ipeds",
+    "college-scorecard",
+    "institutional-research",
+    "data-analytics",
+    "sql",
+    "remote",
+    "oauth"
+  ]
+}
