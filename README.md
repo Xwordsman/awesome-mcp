@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -21,6 +21,10 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
+
+## Authentication & Security
+
+- [Sortance](https://awesome-mcp.com/en/servers/sortance) - Hosted remote MCP server for signup email validation\. It checks whether an address is real, disposable, role-based or risky and returns allow, review or block\. Endpoint https://api\.sortance\.com/mcp \(Streamable HTTP, OAuth 2\.1 or API key\)\. Docs: https://sortance\.com/docs/mcp [Source](https://github.com/wilsonbright/sortance-mcp).
 
 ## Contributing
 
