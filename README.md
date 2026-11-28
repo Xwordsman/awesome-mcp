@@ -24,7 +24,7 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 ## Cloud & DevOps
 
-- [Lantern Works GPU Prices](https://awesome-mcp.com/en/servers/lantern-works-deals-mcp) - Free, read-only MCP server for GPU cloud rental prices, price changes and deals: compares H100, H200, A100, L40S, RTX 4090/5090 and more across tracked providers, cheapest first, with each price's vendor source and check time, price history and GPU job cost estimates\. No API key\. Hosted Streamable HTTP endpoint \(no auth\): https://lantern-works-mcp\.lantern-works\.workers\.dev/mcp\. Website: https://thelanternworks\.com/?ref=awesome-mcp-com [Source](https://github.com/connormatthewdouglas/agent-work-stack-deals).
+- [Lantern Works GPU Prices](https://awesome-mcp.com/en/servers/lantern-works-deals-mcp) - Free MCP server for GPU cloud rental prices, price changes and deals (the local uvx package is read-only; the hosted endpoint adds optional price watches and alerts): compares H100, H200, A100, L40S, RTX 4090/5090 and more across tracked providers, cheapest first, with each price's vendor source and check time, price history and GPU job cost estimates\. No API key\. Hosted Streamable HTTP endpoint \(no auth\): https://lantern-works-mcp\.lantern-works\.workers\.dev/mcp\. Website: https://thelanternworks\.com/?ref=awesome-mcp-com [Source](https://github.com/connormatthewdouglas/agent-work-stack-deals).
 
 ## Contributing
 
