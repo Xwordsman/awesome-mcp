@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "slug": "astromei-mcp",
+  "title": "Astromei MCP",
+  "description": "Local stdio server for Japanese Nine Star Ki and Sukuyo, Vedic astrology, Four Pillars, Meihua I Ching, and Lenormand. Nine Star Ki includes both alternatives for a solar-term boundary date when birth time is unknown. Uses the public Astromei API. Japanese Nine Star Ki calculator: https://astromei.com/ja/kyusei",
+  "repoUrl": "https://github.com/astromei/astromei-mcp",
+  "category": "ai-agents-models",
+  "tags": ["astrology", "nine-star-ki", "sukuyo", "four-pillars", "vedic-astrology", "lenormand"]
+}

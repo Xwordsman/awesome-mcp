@@ -3,7 +3,7 @@
 
 [Browse the website](https://awesome-mcp.com/en) | [Contribute](CONTRIBUTING.md)
 
-7 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
+8 catalog records, grouped by category. This is a metadata snapshot, not an installation or security endorsement.
 
 No install commands, private submissions, credentials, synthetic metrics or unreviewed capability definitions are exported.
 
@@ -19,6 +19,7 @@ Repository availability and upstream behavior may change. Review upstream docume
 
 ## AI, Agents & Models
 
+- [Astromei MCP](https://awesome-mcp.com/en/servers/astromei-mcp) - Local stdio server for Japanese Nine Star Ki and Sukuyo, Vedic astrology, Four Pillars, Meihua I Ching, and Lenormand\. Nine Star Ki includes both alternatives for a solar-term boundary date when birth time is unknown\. Uses the public Astromei API\. Japanese Nine Star Ki calculator: https://astromei\.com/ja/kyusei [Source](https://github.com/astromei/astromei-mcp).
 - [Knowledge Graph Memory](https://awesome-mcp.com/en/servers/memory) - Store and retrieve entities, relations and observations in a persistent local knowledge graph\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory).
 - [Sequential Thinking](https://awesome-mcp.com/en/servers/sequential-thinking) - Organize problem solving into revisable, branching thought steps through an MCP tool\. [Source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking).
 
